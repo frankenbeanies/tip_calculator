@@ -11,7 +11,7 @@ Installing, Compiling, and Running
 git clone https://github.com/frankenbeanies/tip_calculator.git
 cd tip_calculator
 //Generate the makefile
-qmake
+qmake --makefile
 qmake --project
 ```
 
