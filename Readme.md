@@ -13,8 +13,8 @@ Installing, Compiling, and Running
 git clone https://github.com/frankenbeanies/tip_calculator.git
 cd tip_calculator
 //Generate the makefile
-qmake --makefile
 qmake --project
+qmake --makefile
 ```
 
 ***The file tip_calculator.pro must have this line appended to the end***
