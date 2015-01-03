@@ -15,7 +15,7 @@ qmake --makefile
 qmake --project
 ```
 
-***The Makefile must have this line appended to the end***
+***The file tip_calculator.pro must have this line appended to the end***
 
 ```
 QT += widgets
