@@ -27,3 +27,4 @@
 *.pro
 Makefile
 Tip_Calculator
+moc*
