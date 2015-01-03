@@ -3,6 +3,8 @@ Tip Calculator
 
 **C++ Tip Calculator**
 
+These instructions are assuming an Ubuntu 14.04 machine with g++ and the Ubuntu SDK already installed. This code is theoretically cross platform, but I have not had an opportunity to test this assertion. 
+
 Installing, Compiling, and Running
 ----------------------------------
 
